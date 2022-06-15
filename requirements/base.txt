@@ -1,3 +1,5 @@
 Flask
 requests==2.22.0
 gunicorn
+pytest
+unittest2
