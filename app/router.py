@@ -1,6 +1,7 @@
 import os
-from flask import Flask, request, jsonify, Response
-from app.database.database import getDatabase
+from flask import Flask, jsonify
+
+from .services.provinces import provinces
 
 def create_app():
     app = Flask(__name__)
@@ -44,15 +45,7 @@ novos conhecimentos.
             "CONTRIBUIDORES": [],
         })
     
-    @app.route("/provinces/<string:countrie>/<string:country>")
-    def provinces(countrie,country):
-        try:
-            data = getDatabase()
-            if (countrie in  data['countries'] and country in data['countries'][countrie]):    
-                provinces = data['countries'][countrie][country]['provinces']
-                return jsonify({"success": True,"provincies": provinces})
-            else:
-                return jsonify({"success": False,"message": "Countrie Or Country Not Found"})
-        except Exception as e:
-            return jsonify({"success": False,"message": "Internal Server Error"})
+    """ ROUTER FOR PROVINCES """
+    provinces(app)
+
     return app
