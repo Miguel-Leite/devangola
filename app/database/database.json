@@ -1,0 +1,98 @@
+{
+    "countrys": {
+        "african": {
+            "angolan": {
+                "country": "Angola",
+                "Capital": "Luanda",
+                "Presidente": "João Gonçalves Lourenço",
+                "provincy": [
+                    {
+                        "provincy": "Luanda",
+                        "city": "Luanda",
+                        "municipios": ["Cacuaco","Viana","Belas","Cazenga","Ícolo e Bengo","Luanda","Quissama"]
+                    },
+                    {
+                        "provincy": "Huambo",
+                        "city": "Huambo",
+                        "municipios": ["Bailundo","Catchiungo","Caála","Ekunha","Huambo","Londuimbale","Longonjo","Mungo","Tchicala-Tcholoanga","Tchindjenje","Ucuma"]
+                    },
+                    {
+                        "provincy": "Benguela",
+                        "city": "Benguela",
+                        "municipios": ["Balombo","Baía Farta","Benguela","Caimbambo","Chongorói","Cubal","Ganda","Lobito"]
+                    },
+                    {
+                        "provincy": "Lunda-Norte",
+                        "city": "Lucapa",
+                        "municipios": ["Lucapa","Cambulo","Capenda-Camulemba","Caungula","Chitato","Cuango","Cuílo","Lubalo","Xá-Muteba"]
+                    },
+                    {
+                        "provincy": "Bié",
+                        "city": "Kuito",
+                        "municipios": ["Andulo","Kuito","Camacupa","Catabola","Chitembo","Cuemba","Cunhinga","Nharea"]
+                    },
+                    {
+                        "provincy": "Huíla",
+                        "city": "Lubango",
+                        "municipios": ["Lubango","Caconda","Caluquembe","Chiange","Chibia","Chicomba","Cuvango","Humpata","Matala","Quilengues"]
+                    },
+                    {
+                        "provincy": "Malanje",
+                        "city": "Malanje",
+                        "municipios": ["Malanje","Cacuso","Calandula","Cambundi-Catembo","Cangandala","Caombo","Cunda-Dia-Baze","Luquembo","Malanje","Marimba","Massango","Mucari","Quela","Quirima"]
+                    },
+                    {
+                        "provincy": "Namibe",
+                        "city": "Namibe",
+                        "municipios": ["Namibe","Bibala","Camucuio","Moçâmedes","Tômbua","Virei"]
+                    },
+                    {
+                        "provincy": "Zaire",
+                        "city": "Soyo",
+                        "municipios": ["Soyo","Cuimba","M'Banza Kongo","Noqui","N'Zeto"]
+                    },
+                    {
+                        "provincy": "Cabinda",
+                        "city": "Cabinda",
+                        "municipios": ["Cabinda","Belize","Buco-Zau","Cacongo"]
+                    },
+                    {
+                        "provincy": "Uíge",
+                        "city": "Uíge",
+                        "municipios": ["Uíge","Damba","Macocola","Mucaba","Negage","Puri","Quimbele","Quitexe","Sanza Pombo","Songo","Zombo"]
+                    },
+                    {
+                        "provincy": "Lunda Sul",
+                        "city": "Saurimo",
+                        "municipios": ["Saurimo","Cacolo","Dala","Muconda"]
+                    },
+                    {
+                        "provincy": "Kwanza-Sul",
+                        "city": "Sumbe",
+                        "municipios": ["Sumbe","Amboim","Cassongue","Cela","Conda","Ebo","Libolo","Mussende","Quibala","Quilenda","Seles"]
+                    },
+                    {
+                        "provincy": "Bengo",
+                        "city": "Caxito",
+                        "municipios": ["Caxito","Ambriz","Bula Atumba","Dande","Dembos","Nambuangongo","Pango Aluquém"]
+                    },
+                    {
+                        "provincy": "Kwanza-Norte",
+                        "city": "N'Dalantando",
+                        "municipios": ["Cacuaco","Ambaca","Banga","Bolongongo","Cambambe","Cazengo","Golungo Alto","Goguembo","Lucala","Quiculungo","Samba Caju"]
+                    },
+                    {
+                        "provincy": "Moxico",
+                        "city": "Luena",
+                        "municipios": ["Luena","Alto Zambeze","Bundas","Camanongue","Luacano","Luau","Luchazes","Léua","Moxico"]
+                    },
+                    {
+                        "provincy": "Cuando-Cubango",
+                        "city": "Menongue",
+                        "municipios": ["Menongue","Calai","Cuangar","Cuchi","Cuito Cuanavale","Dirico","Longa","Mavinga","Rivungo"]
+                    }
+                ]
+            }
+        }
+    }
+}
