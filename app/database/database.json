@@ -12,6 +12,11 @@
                         "county": ["Cacuaco","Viana","Belas","Cazenga","Ícolo e Bengo","Luanda","Quissama"]
                     },
                     {
+                        "provincy": "Cunene",
+                        "city": "Ondjiva",
+                        "county": ["Ondjiva","Cahama", "Cuanhama", "Curoca", "Cuvelai", "Namacunde", "Ombadja"]
+                    },
+                    {
                         "provincy": "Huambo",
                         "city": "Huambo",
                         "county": ["Bailundo","Catchiungo","Caála","Ekunha","Huambo","Londuimbale","Longonjo","Mungo","Tchicala-Tcholoanga","Tchindjenje","Ucuma"]
@@ -92,6 +97,14 @@
                         "county": ["Menongue","Calai","Cuangar","Cuchi","Cuito Cuanavale","Dirico","Longa","Mavinga","Rivungo"]
                     }
                 ]
+            }
+        },
+        "america-sul": {
+            "brasil": {
+                "country": "",
+                "capital": "",
+                "president": "",
+                "regions": []
             }
         }
     }
